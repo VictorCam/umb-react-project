@@ -131,6 +131,13 @@
       "cost": 75,
       "facilityType": "Urgent Care",
       "copay": 15
+    },
+    {
+      "copay": 100,
+      "facilityType": "Academics",
+      "cost": 100,
+      "cptCodeId": 3,
+      "id": 16
     }
   ]
 }
